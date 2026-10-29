@@ -1,4 +1,4 @@
-# Opa! Sou Jean, muito prazer! 😁️
+# Opa! Sou Jean Henry, muito prazer! 😁️
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 ### Período 1/5 
