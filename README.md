@@ -1,4 +1,4 @@
-# Olá! 👋 Meu nome é Jean Henry
+# Opa! Sou Jean, muito prazer! 😁️
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 ### Período 1/5 
