@@ -22,7 +22,6 @@
 
 ---
 
-
 ### 📱 Redes sociais
 
 <a href="https://www.instagram.com/henry_comkpim/" target="_blank" rel="noopener noreferrer">
@@ -31,3 +30,9 @@
 <a href="https://github.com/joaolipinho3-oss" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub" />
 </a>
+
+--- 
+
+### 📩️ Contato Profissional
+
+<a href="mailto:jean.henry0201contato@gmail.com"> Clique aqui </a> para me contatar!
